@@ -5,7 +5,7 @@ A simple and fun Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ---
 
 ## 🚀 Live Demo
-👉 [Play Now](https://sonia127-lab.github.io/Tic-Tac-Toe/)
+👉 [Play Now]  https://sonia-ydv.github.io/Tic-Tac-Toe/
 
 ---
 
